@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Denise 👋
 
-<!--
-**ibanezdionskie-svg/ibanezdionskie-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student at the **Technological Institute of the Philippines – Manila**, learning to build practical apps that solve everyday problems.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **Trackon**: household expense tracker with receipt-photo scanning (OCR)
+- **ReSource**: campus marketplace for TIP students
+- **PawsAdopt**: pet adoption website
+- **Scanity**: packaged-food scanner that flags products against your allergies and health conditions
+- **EcoLink**: platform for exchanging reusable materials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I Work With
+**Languages:** Java · PHP · TypeScript · Python · JavaScript · HTML/CSS  
+**Databases:** MySQL · Supabase  
+**Tools:** Git · GitHub · VS Code
+
+## 🌱 Currently
+- Learning object-oriented programming in Java
+- Working on team projects and getting better at collaborative development
+
+## 📫 Reach Me
+- Email: ibanezdionskie@example.com
+- LinkedIn: linkedin.com/in/your-profile
