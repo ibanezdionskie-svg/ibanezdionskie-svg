@@ -30,7 +30,7 @@ Food labels are hard to read, especially for people with allergies or health con
 
 
 ### 💰 TrackOn: Household Expense Tracker
-**[Live demo](https://track0n-hkor.vercel.app)** · [Repository](https://github.com/ibanezdionskie-svg/track0n)· *Team project · Full-stack developer*
+**[Live demo](https://track0n-hkor.vercel.app)** · [Repository](https://github.com/ibanezdionskie-svg/track0n) · *Team project · Full-stack developer*
 
 Small purchases add up quickly, and most households don't know where their money goes each month. TrackOn helps a household record everyday spending, organize it by category, and compare it against a budget.
 
@@ -46,7 +46,7 @@ Under the hood, receipt photos are cleaned up (rotation, contrast, sharpening) b
 `React 19` `TypeScript` `Tailwind CSS` `Vite` `Python` `FastAPI` `Supabase` `OCR.space` `Tesseract` `pytest`
 
 ### 🌾 Silo: Surplus Harvest Rescue Platform
-[Repository](https://github.com/ritztan/Siloo)
+[Repository](https://github.com/ritztan/Siloo) · *Team project · Full-stack developer*
 
 Farms often have produce they can't sell, and it spoils before it reaches people who need it. Silo is a web system that moves that surplus to food banks, community kitchens, pantries, and partner NGOs while it is still fresh.
 
@@ -59,7 +59,7 @@ Farms often have produce they can't sell, and it spoils before it reaches people
 `React 19` `TypeScript` `Tailwind CSS` `Vite` `Python` `FastAPI` `Supabase`
 
 ### 🏘️ Barangay EMS: Evacuation Management &amp; Resource Allocation System
-[Repository](https://github.com/Cedric-AL/Barangay-EMS) · *Team project*
+[Repository](https://github.com/Cedric-AL/Barangay-EMS) · *Team project · Full-stack developer*
 
 During disasters, barangay officials have to track evacuees, evacuation centers, and relief supplies at the same time, often on paper. Barangay EMS is a desktop system that keeps all three in one place and helps officials decide where supplies should go.
 
