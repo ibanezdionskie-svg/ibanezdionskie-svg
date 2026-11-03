@@ -30,7 +30,7 @@ Food labels are hard to read, especially for people with allergies or health con
 
 
 ### 💰 TrackOn: Household Expense Tracker
-[Repository](https://github.com/ibanezdionskie-svg/track0n)
+**[Live demo](https://track0n-hkor.vercel.app)** [Repository](https://github.com/ibanezdionskie-svg/track0n)
 Small purchases add up quickly, and most households don't know where their money goes each month. TrackOn helps a household record everyday spending, organize it by category, and compare it against a budget.
 
 - **Receipt scanning** turns a photo of a receipt into an editable expense draft
