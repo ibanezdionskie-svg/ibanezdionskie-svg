@@ -34,16 +34,17 @@ Food labels are hard to read, especially for people with allergies or health con
 
 Small purchases add up quickly, and most households don't know where their money goes each month. TrackOn helps a household record everyday spending, organize it by category, and compare it against a budget.
 
-- **Receipt scanning** turns a photo of a receipt into an editable expense draft
-- **Quick Log** records purchases that have no receipt in a few taps
-- **Household categories** such as groceries, food, utilities, transportation, health, and education
-- **Budget comparison** shows how actual spending measures up to the household budget
+- **Receipt scanning** turns a photo into an editable draft. Long receipts are read in sections, and doubtful scans get an AI double-check whose values are accepted only when the receipt's own numbers back them up.
+- **Quick Log** records purchases that have no receipt, like a jeepney fare or a sari-sari store buy
+- **Automatic categories** from editable keywords, with AI suggestions for items no keyword matches
+- **Income-checked budgets**: a budget above the household's income is refused, and one above 90% must be confirmed
+- **Budget Assistant**: a chat that answers questions from the household's own records and suggests budgets the user can accept or reject
+- **Reports** with month-to-month comparison and CSV export
+- **Secure accounts**: password changes and account deletion need a one-time emailed link
 
-Under the hood, receipt photos are cleaned up (rotation, contrast, sharpening) before text recognition, using OCR.space with a local Tesseract fallback if the online service is unavailable. Receipts are stored privately, and every user signs in with their own account.
+**My contribution:** Lead full-stack developer and repository owner, with most of the project's commits. I built the receipt-scanning pipeline (OCR.space, Tesseract fallback, receipt parser, Gemini verification), the Budget Assistant, the budget rules, the account security flows, and the Vercel deployment, all backed by 250+ automated tests.
 
-**My contribution:** Full-stack developer. I worked across the React front end, the FastAPI back end, the Supabase database, and the receipt-scanning pipeline.
-
-`React 19` `TypeScript` `Tailwind CSS` `Vite` `Python` `FastAPI` `Supabase` `OCR.space` `Tesseract` `pytest`
+`React 19` `TypeScript` `Tailwind CSS` `Vite` `Python` `FastAPI` `Supabase` `Gemini` `OCR.space` `Tesseract` `pytest` `GitHub Actions` `Vercel`
 
 ### 🌾 Silo: Surplus Harvest Rescue Platform
 [Repository](https://github.com/ritztan/Siloo) · *Team project · Full-stack developer*
