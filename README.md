@@ -46,7 +46,7 @@ Under the hood, receipt photos are cleaned up (rotation, contrast, sharpening) b
 `React 19` `TypeScript` `Tailwind CSS` `Vite` `Python` `FastAPI` `Supabase` `OCR.space` `Tesseract` `pytest`
 
 ### 🌾 Silo: Surplus Harvest Rescue Platform
-[Repository](https://github.com/ritztan/Siloo
+[Repository](https://github.com/ritztan/Siloo)
 
 Farms often have produce they can't sell, and it spoils before it reaches people who need it. Silo is a web system that moves that surplus to food banks, community kitchens, pantries, and partner NGOs while it is still fresh.
 
