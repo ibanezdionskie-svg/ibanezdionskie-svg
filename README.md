@@ -123,7 +123,3 @@ I'm happy to talk about a project, an internship, or a collaboration.
 - LinkedIn: https://www.linkedin.com/in/denise-ibanez-457640380/
 
 - ResearchGate: https://www.researchgate.net/profile/Denise-Ibanez?ev=hdr_xprf
-
-The two <!-- ... --> lines under TrackOn and Silo don't show on GitHub. They mark where to add a repo or demo link later.
-
-The PHP and MySQL badges still come from your WEBSYS and ReSource coursework, which no longer appears in the featured projects. You do have commits using them, so they're accurate. If you want only skills from your four projects, I can remove them.
