@@ -118,8 +118,9 @@ During disasters, barangay officials have to track evacuees, evacuation centers,
 
 I'm happy to talk about a project, an internship, or a collaboration.
 
-📧 [ibanezdionskie@gmail.com](mailto:ibanezdionskie@gmail.com) 
-💼 [LinkedIn](https://www.linkedin.com/in/denise-ibanez-457640380/)
+[ibanezdionskie@gmail.com](mailto:ibanezdionskie@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/denise-ibanez-457640380/)
+[ResearchGate](https://www.researchgate.net/profile/Denise-Ibanez?ev=hdr_xprf)
 
 The two <!-- ... --> lines under TrackOn and Silo don't show on GitHub. They mark where to add a repo or demo link later.
 
